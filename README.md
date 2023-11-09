@@ -26,8 +26,9 @@ Tombol back berfungsi untuk kembali keurutan angka fibonacci sebelumnya
 ### 3. Button Max
 Button max berfungsi untuk Menuju ke urutan maksimal angka fibonacci yang telah kita tetapkan. Disini saya menetapkan 
 Maksimal urutan angka finonaccinya adalah 20
+
 ![ss7](https://github.com/FsBagaskorooooo/UTS_Pemograman__Mobile/assets/130354090/6a36ec59-af9d-41f0-9335-ac8b1f443a03)
 
 ### 4. Input
-
+Input berfungsi untuk menuju urutan angka fibonacci yang telah kita input
 ![ss8](https://github.com/FsBagaskorooooo/UTS_Pemograman__Mobile/assets/130354090/da1de662-15b0-4249-b182-98c0001a269f)
