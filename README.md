@@ -31,4 +31,5 @@ Maksimal urutan angka finonaccinya adalah 20
 
 ### 4. Input
 Input berfungsi untuk menuju urutan angka fibonacci yang telah kita input
+
 ![ss8](https://github.com/FsBagaskorooooo/UTS_Pemograman__Mobile/assets/130354090/da1de662-15b0-4249-b182-98c0001a269f)
